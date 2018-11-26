@@ -8,6 +8,17 @@ In this section we'll discuss how to make effective use of social media as an ou
 
 ### Social Media as Outreach
 
+The most common and accepted use for social media in archaeology right now is for communicating to the general public. Accounts that represent institutions or research projects are particularly common and are typically used to share information about public events or describing artifacts with the aim of inspiring a sense of having heritage in modern people. More often than not these accounts are used to post information only; these are a digital form of uni-directional public outreach. Announcement accounts do similar labor to a public lecture at the end of research, but they are share information on social media instead of in person. 
+
+A few institutions take a more interactive approach to social media outreach by interacting with trending topics in real time and responding with humor to users that tag them in their posts. The Wenner-Gren Foundation and Museum of English Rural Life are two examples of this style of outreach. This interactive approach more closely resembles best practices in social media marketing but requires more time, skill, and attentiveness to the social media account, which many heritage workers and institutions may not be able to afford.
+
+One rule of thumb to consider when using social media as a tool for outreach is what social media marketing professionals call the 80-20 rule: you should aim for no more than twenty percent of the content you share to be direct promotion of your work, while eighty percent of what you share should be engaging with colleagues, other institutions, news relating to your topic, and other interesting material that relates to your audience's interest. The audience of a social media account for a museum, for example, is much broader than the group of physical visitors who enter the museum, and that eighty percent of content should speak to that interested general audience regardless of whether they are able to attend events or exhibits.
+
+As an individual, social media can be used to both network with colleagues and to interact with interested members of the public. Usually the content of archaeology twitter accounts skews quite a bit to the former, but individual users who interact with trending topics or post about their other interests may find themselves with followers who are not colleagues, and non-archaeologist users who have a particular interest in the field will often seek out archaeologists on Twitter.
+
+
+Current best practice among professional social media is to ascribe to the 80-20 rule: 
+
 day of archaeology article; lorna richardson body of work; mapping the blogosphere; IA special issue on blogging in archaeology from a few years back
 
 - how to be professional on social media
@@ -15,7 +26,7 @@ day of archaeology article; lorna richardson body of work; mapping the blogosphe
 
 ### Social Media to Keep Current on Research
 
-
+Hashtags are a remarkable tool for keeping up with current research in archaeology, if there is a community of scholars dedicated to curating that hashtag. For example, there are a number of people who consistently post research and news to the public archaeology (#pubarch) and digital archaeology (#digiarch) hashtags across social media platforms. An even more robust example is the cross-disciplinary digital humanities hashtag (#dh). 
 
 ### Four Moves, or, Getting at the Truth
 
